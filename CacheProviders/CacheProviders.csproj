@@ -7,6 +7,11 @@
         <Authors>Roy Malcomber</Authors>
         <Description> Package to simplify IMemoryCache and IDistributedCache</Description>
         <PackageProjectUrl>https://github.com/malcomberstudios/CacheProviders</PackageProjectUrl>
+        <Copyright>2021 Royston Malcomber</Copyright>
+        <PackageLicenseExpression>MIT</PackageLicenseExpression>
+        <RepositoryUrl>https://github.com/malcomberstudios/CacheProviders</RepositoryUrl>
+        <PackageTags>IMemoryCache IDistributedCache</PackageTags>
+        <PackageVersion>1.0.1</PackageVersion>
     </PropertyGroup>
 
     <ItemGroup>
