@@ -6,6 +6,7 @@
         <Title>Cache Providers</Title>
         <Authors>Roy Malcomber</Authors>
         <Description> Package to simplify IMemoryCache and IDistributedCache</Description>
+        <PackageProjectUrl>https://github.com/malcomberstudios/CacheProviders</PackageProjectUrl>
     </PropertyGroup>
 
     <ItemGroup>
